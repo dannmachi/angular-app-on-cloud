@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-app-on-cloud';
+  title = 'angular-app-on-cloud-main';
 }
